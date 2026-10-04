@@ -20,8 +20,8 @@
   </p>
   <br>
 
-  <div align="center">
-    <a href="https://www.linkedin.com/in/ameralreyahi/"><img src="https://img.shields.io/badge/LINKEDIN-D4AF37?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI0Q0QUYzNyIgZD0iTTIwLjQ1IDIwLjQ1aC0zLjU2di01LjU3YzAtMS4zMy0uMDMtMy4wNC0xLjg1LTMuMDQtMS44NiAwLTIuMTQgMS40NS0yLjE0IDIuOTV2NS42Nkg5LjM1VjloMy40MXYxLjU2aC4wNWMuNDgtLjkgMS42NC0xLjg1IDMuMzctMS44NSAzLjYgMCA0LjI3IDIuMzcgNC4yNyA1LjQ2djYuMjh6TTUuMzQgNy40M2EyLjA2IDIuMDYgMCAxIDEgMC00LjEyIDIuMDYgMi4wNiAwIDAgMSAwIDQuMTJ6TTcuMTIgMjAuNDVIMy41NlY5aDMuNTZ2MTEuNDV6Ii8%2BPC9zdmc%2B&logoColor=D4AF37&labelColor=000000" alt="LinkedIn" /></a>
+  <div align="left">
+    &emsp;&emsp;&emsp;&emsp;<a href="https://www.linkedin.com/in/ameralreyahi/"><img src="https://img.shields.io/badge/LINKEDIN-D4AF37?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI0Q0QUYzNyIgZD0iTTIwLjQ1IDIwLjQ1aC0zLjU2di01LjU3YzAtMS4zMy0uMDMtMy4wNC0xLjg1LTMuMDQtMS44NiAwLTIuMTQgMS40NS0yLjE0IDIuOTV2NS42Nkg5LjM1VjloMy40MXYxLjU2aC4wNWMuNDgtLjkgMS42NC0xLjg1IDMuMzctMS44NSAzLjYgMCA0LjI3IDIuMzcgNC4yNyA1LjQ2djYuMjh6TTUuMzQgNy40M2EyLjA2IDIuMDYgMCAxIDEgMC00LjEyIDIuMDYgMi4wNiAwIDAgMSAwIDQuMTJ6TTcuMTIgMjAuNDVIMy41NlY5aDMuNTZ2MTEuNDV6Ii8%2BPC9zdmc%2B&logoColor=D4AF37&labelColor=000000" alt="LinkedIn" /></a>
     <a href="mailto:amerzuher@outlook.com"><img src="https://img.shields.io/badge/EMAIL-D4AF37?style=for-the-badge&logo=gmail&logoColor=D4AF37&labelColor=000000" alt="Email" /></a>
     <a href="https://www.researchgate.net/profile/Amer-Zuher"><img src="https://img.shields.io/badge/RESEARCHGATE-D4AF37?style=for-the-badge&logo=researchgate&logoColor=D4AF37&labelColor=000000" alt="ResearchGate" /></a>
     <img src="https://hits.sh/github.com/AmerAlreyahi/AmerAlreyahi.svg?style=for-the-badge&label=PROFILE%20VIEWS&color=D4AF37&labelColor=000000&extraCount=1000" alt="Profile Views" />
