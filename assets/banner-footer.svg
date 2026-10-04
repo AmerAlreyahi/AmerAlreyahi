@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="120" viewBox="0 0 1200 120" role="img" aria-label="footer">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#050505"/>
+      <stop offset="0.55" stop-color="#14100a"/>
+      <stop offset="1" stop-color="#0a0a0a"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#8a6a1c"/>
+      <stop offset="0.25" stop-color="#f6e3a1"/>
+      <stop offset="0.5" stop-color="#d4af37"/>
+      <stop offset="0.75" stop-color="#f6e3a1"/>
+      <stop offset="1" stop-color="#8a6a1c"/>
+    </linearGradient>
+    <linearGradient id="wave" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#d4af37" stop-opacity="0.05"/>
+      <stop offset="0.5" stop-color="#d4af37" stop-opacity="0.28"/>
+      <stop offset="1" stop-color="#d4af37" stop-opacity="0.05"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="120" fill="url(#bg)"/>
+  <path d="M0 70 C200 30 380 100 600 66 S1000 30 1200 72 V120 H0Z" fill="url(#wave)"/>
+  <path d="M0 70 C200 30 380 100 600 66 S1000 30 1200 72" fill="none" stroke="url(#gold)" stroke-width="1.5" stroke-opacity="0.8"/>
+  <rect x="0" y="0" width="1200" height="3" fill="url(#gold)"/>
+  <rect x="0" y="117" width="1200" height="3" fill="url(#gold)"/>
+</svg>

@@ -1,17 +1,17 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=300&section=header&text=AMER%20ZUHER%20ALRIYAHI&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=45" width="100%"/>
+<img src="assets/banner-header.svg" width="100%" alt="Amer Zuher Alriyahi"/>
 
 <br>
 
 <div align="left">
   
   <!-- Image floated to the left -->
-  <img align="left" src="https://github.com/AmerAlreyahi.png" width="220" style="border-radius: 50%; border: 5px solid #58A6FF; margin-right: 30px; margin-bottom: 20px;" alt="Amer Zuher Alriyahi" />
+  <img align="left" src="https://github.com/AmerAlreyahi.png" width="220" style="border-radius: 50%; border: 5px solid #D4AF37; margin-right: 30px; margin-bottom: 20px;" alt="Amer Zuher Alriyahi" />
   
   <!-- Content wrapping on the right -->
-  <a href="https://amer-alreyahi.vercel.app">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=58A6FF&vCenter=true&width=650&lines=AI+Solutions+Architect;Project+Portfolio+Management+Specialist" alt="Typing SVG" />
+  <a href="https://ameralreyahi.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=D4AF37&vCenter=true&width=650&lines=AI+Solutions+Architect;Project+Portfolio+Management+Specialist" alt="Typing SVG" />
   </a>
   <br>
 
@@ -21,10 +21,11 @@
   <br>
 
   <div>
-    <a href="https://www.linkedin.com/in/ameralreyahi/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="mailto:AmerAlreyahi@outlook.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-    <a href="https://amer-alreyahi.vercel.app" target="_blank"><img src="https://img.shields.io/badge/🚀_PORTFOLIO_WEBSITE-0D1117?style=for-the-badge&logo=vercel&logoColor=white&labelColor=58A6FF&color=0D1117" alt="Portfolio" /></a>
-    <a href="https://www.researchgate.net/profile/Amer-Zuher"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" alt="ResearchGate" /></a>
+    <a href="https://www.linkedin.com/in/ameralreyahi/"><img src="https://img.shields.io/badge/LINKEDIN-D4AF37?style=for-the-badge&logo=linkedin&logoColor=000000" alt="LINKEDIN" /></a>
+    <a href="mailto:AmerAlreyahi@outlook.com"><img src="https://img.shields.io/badge/EMAIL-D4AF37?style=for-the-badge&logo=gmail&logoColor=000000" alt="EMAIL" /></a>
+    <a href="https://ameralreyahi.com" target="_blank"><img src="https://img.shields.io/badge/PORTFOLIO_WEBSITE-D4AF37?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjMDAwIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI%2BPGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iMTAiLz48cGF0aCBkPSJNMiAxMmgyMCIvPjxwYXRoIGQ9Ik0xMiAyYTE1LjMgMTUuMyAwIDAgMSA0IDEwIDE1LjMgMTUuMyAwIDAgMS00IDEwIDE1LjMgMTUuMyAwIDAgMS00LTEwIDE1LjMgMTUuMyAwIDAgMSA0LTEweiIvPjwvc3ZnPgo%3D" alt="Portfolio Website" /></a>
+    <a href="https://www.researchgate.net/profile/Amer-Zuher"><img src="https://img.shields.io/badge/RESEARCHGATE-D4AF37?style=for-the-badge&logo=researchgate&logoColor=000000" alt="RESEARCHGATE" /></a>
+    <img src="https://komarev.com/ghpvc/?username=AmerAlreyahi&label=PROFILE+VIEWS&color=D4AF37&labelColor=000000&style=for-the-badge&base=1000" alt="Profile Views" />
   </div>
   
   <br>
@@ -43,7 +44,7 @@
 Bridging Advanced Engineering & Enterprise Strategy True innovation lives at the intersection of deep tech and organizational strategy. As an AI Software Engineer and certified Broadcom Partner Consultant, I bridge cutting-edge technology and real-world business execution—designing, training, and deploying sophisticated AI systems while structuring the portfolio management, workflows, and governance needed to scale them. Because most tech initiatives fail in execution, not intelligence, my dual perspective ensures every model delivers measurable ROI. Whether engineering autonomous AI solutions or structuring complex enterprise portfolios, I translate technical potential into sustainable business value.
 
 
-**[👉 Dive deeper into my full case studies, architectures, and UI designs on my Portfolio Website!](https://amer-alreyahi.vercel.app)**
+**[👉 Dive deeper into my full case studies, architectures, and UI designs on my Portfolio Website!](https://ameralreyahi.com)**
 
 ---
 
@@ -59,36 +60,32 @@ Bridging Advanced Engineering & Enterprise Strategy True innovation lives at the
 ## 🛠️ Technical Arsenal
 
 <div align="center">
-  
-  ### AI, Machine Learning & Data Science
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,python,r,scikitlearn&theme=dark" alt="AI & ML Stack" />
-  </a>
-  <br>
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face"/>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain"/>
-  <img src="https://img.shields.io/badge/LlamaIndex-000000?style=flat-square&logo=c&logoColor=white" alt="LlamaIndex"/>
-  
-  <br /><br />
 
-  ### Web Frameworks & Frontend
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,ts,js,html,css&theme=dark" alt="Frontend Stack" />
-  </a>
-
-  <br /><br />
-
-  ### Backend, Databases & APIs
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,fastapi,flask,postgres,sqlite,mongodb,supabase,redis&theme=dark" alt="Backend Stack" />
-  </a>
-
-  <br /><br />
-
-  ### DevOps, Cloud & Architecture
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,ubuntu,bash,githubactions,linux,nginx&theme=dark" alt="DevOps Stack" />
-  </a>
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <b>AI, Machine Learning & Data Science</b><br /><br />
+      <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,python,r,scikitlearn&theme=dark" alt="AI & ML Stack" /><br />
+      <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face"/>
+      <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain"/>
+      <img src="https://img.shields.io/badge/LlamaIndex-000000?style=flat-square&logo=c&logoColor=white" alt="LlamaIndex"/>
+    </td>
+    <td align="center" width="50%">
+      <b>Web Frameworks & Frontend</b><br /><br />
+      <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,ts,js,html,css&theme=dark" alt="Frontend Stack" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <b>Backend, Databases & APIs</b><br /><br />
+      <img src="https://skillicons.dev/icons?i=nodejs,fastapi,flask,postgres,sqlite,mongodb,supabase,redis&theme=dark" alt="Backend Stack" />
+    </td>
+    <td align="center" width="50%">
+      <b>DevOps, Cloud & Architecture</b><br /><br />
+      <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,ubuntu,bash,githubactions,linux,nginx&theme=dark" alt="DevOps Stack" />
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -97,11 +94,14 @@ Bridging Advanced Engineering & Enterprise Strategy True innovation lives at the
 ## 📈 GitHub Analytics
 
 <div align="center">
-  <table>
-    <tr>
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=AmerAlreyahi&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak" />
-    </tr>
-  </table>
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://streak-stats.demolab.com?user=AmerAlreyahi&hide_border=true&background=0D0D0D&ring=D4AF37&fire=D4AF37&currStreakNum=FFFFFF&currStreakLabel=D4AF37&sideNums=FFFFFF&sideLabels=D4AF37&dates=9E9E9E" alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -120,10 +120,10 @@ Bridging Advanced Engineering & Enterprise Strategy True innovation lives at the
 <div align="center">
   <i>"Building the future of automation, one intelligent system at a time."</i><br><br>
   
-  <a href="https://amer-alreyahi.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/👉%20CHECK%20OUT%20MY%20PORTFOLIO%20WEBSITE%20-0D1117?style=for-the-badge&logo=vercel&logoColor=white&labelColor=58A6FF&color=0D1117" alt="Portfolio Footer Button" height="40"/>
+  <a href="https://ameralreyahi.com" target="_blank">
+    <img src="https://img.shields.io/badge/👉%20CHECK%20OUT%20MY%20PORTFOLIO%20WEBSITE-D4AF37?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjMDAwIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI%2BPGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iMTAiLz48cGF0aCBkPSJNMiAxMmgyMCIvPjxwYXRoIGQ9Ik0xMiAyYTE1LjMgMTUuMyAwIDAgMSA0IDEwIDE1LjMgMTUuMyAwIDAgMS00IDEwIDE1LjMgMTUuMyAwIDAgMS00LTEwIDE1LjMgMTUuMyAwIDAgMSA0LTEweiIvPjwvc3ZnPgo%3D" alt="Portfolio Footer Button" height="40"/>
   </a>
   
   <br><br>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=120&section=footer" width="100%"/>
+  <img src="assets/banner-footer.svg" width="100%" alt=""/>
 </div>
