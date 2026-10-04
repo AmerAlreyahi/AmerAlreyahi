@@ -19,8 +19,11 @@
     </linearGradient>
   </defs>
   <rect width="1200" height="120" fill="url(#bg)"/>
-  <path d="M0 70 C200 30 380 100 600 66 S1000 30 1200 72 V120 H0Z" fill="url(#wave)"/>
-  <path d="M0 70 C200 30 380 100 600 66 S1000 30 1200 72" fill="none" stroke="url(#gold)" stroke-width="1.5" stroke-opacity="0.8"/>
+  <g>
+    <animateTransform attributeName="transform" type="translate" values="-90 0;90 0;-90 0" dur="14s" repeatCount="indefinite" calcMode="spline" keyTimes="0;0.5;1" keySplines="0.45 0 0.55 1;0.45 0 0.55 1"/>
+    <path d="M-250 74 C-50 32 130 104 350 70 S750 32 950 76 S1250 104 1450 72 V120 H-250Z" fill="url(#wave)"/>
+    <path d="M-250 74 C-50 32 130 104 350 70 S750 32 950 76 S1250 104 1450 72" fill="none" stroke="url(#gold)" stroke-width="1.5" stroke-opacity="0.8"/>
+  </g>
   <rect x="0" y="0" width="1200" height="3" fill="url(#gold)"/>
   <rect x="0" y="117" width="1200" height="3" fill="url(#gold)"/>
 </svg>
