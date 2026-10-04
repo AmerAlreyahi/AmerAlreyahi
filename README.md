@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/header.svg" width="100%" alt="Amer Zuher Alreyahi"/>
+<img src="assets/banner-top.svg" width="100%" alt="Amer Zuher Alreyahi"/>
 
 <br>
 
@@ -28,14 +28,16 @@
   </div>
   <br>
 
-  <a href="https://ameralreyahi.com" target="_blank">
-    <img src="assets/website-card.svg" width="540" alt="Portfolio Website - ameralreyahi.com" />
-  </a>
-
 </div>
 
 <!-- This clears the float so the rest of your profile doesn't wrap around the image -->
 <br clear="both" />
+
+<br />
+
+<a href="https://ameralreyahi.com" target="_blank">
+  <img src="assets/website.svg" width="420" alt="My Website" />
+</a>
 
 </div>
 
@@ -156,9 +158,9 @@ Docker Essentials (IBM), Microsoft Intro to DevOps, Cisco Networking Essentials,
   <i>"Building the future of automation, one intelligent system at a time."</i><br><br>
 
   <a href="https://ameralreyahi.com" target="_blank">
-    <img src="assets/website-card.svg" width="460" alt="Portfolio Website - ameralreyahi.com" />
+    <img src="assets/website.svg" width="360" alt="My Website" />
   </a>
 
   <br><br>
-  <img src="assets/footer.svg" width="100%" alt=""/>
+  <img src="assets/banner-bottom.svg" width="100%" alt=""/>
 </div>
