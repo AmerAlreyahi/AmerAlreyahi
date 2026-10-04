@@ -43,6 +43,8 @@
 
 <div align="center">
 
+<br /><br />
+
 <img src="assets/section-summary.svg" width="100%" alt="Professional Summary" />
 
 <h3>Bridging Advanced Engineering &amp; Enterprise Strategy</h3>
@@ -56,6 +58,8 @@ True innovation lives at the intersection of deep tech and organizational strate
 </div>
 
 <div align="center">
+
+<br /><br />
 
 <img src="assets/section-operations.svg" width="100%" alt="Current Operations" />
 
@@ -89,6 +93,8 @@ Scaling Generative AI &amp; RAG in regulated environments, AI governance, enterp
 
 <div align="center">
 
+<br /><br />
+
 <img src="assets/section-arsenal.svg" width="100%" alt="Technical Arsenal" />
 
 <h4>AI, Machine Learning & Data Science</h4>
@@ -119,6 +125,8 @@ Scaling Generative AI &amp; RAG in regulated environments, AI governance, enterp
 
 <div align="center">
 
+<br /><br />
+
 <img src="assets/section-analytics.svg" width="100%" alt="GitHub Analytics" />
 
 <img src="https://streak-stats.demolab.com?user=AmerAlreyahi&hide_border=true&background=0D0D0D&ring=D4AF37&fire=D4AF37&currStreakNum=FFFFFF&currStreakLabel=D4AF37&sideNums=FFFFFF&sideLabels=D4AF37&dates=9E9E9E" alt="GitHub Streak" />
@@ -126,6 +134,8 @@ Scaling Generative AI &amp; RAG in regulated environments, AI governance, enterp
 </div>
 
 <div align="center">
+
+<br /><br />
 
 <img src="assets/section-education.svg" width="100%" alt="Academic &amp; Professional Foundations" />
 
