@@ -11,7 +11,7 @@
   
   <!-- Content wrapping on the right -->
   <a href="https://ameralreyahi.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=D4AF37&vCenter=true&width=820&lines=AI+Solutions+Architect;Project+Portfolio+Management+Specialist" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=D4AF37&vCenter=true&width=620&lines=AI+Solutions+Architect;Project+Portfolio+Management+Specialist" alt="Typing SVG" />
   </a>
   <br>
 
