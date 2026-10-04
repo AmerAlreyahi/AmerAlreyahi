@@ -20,7 +20,7 @@
   </p>
   <br>
 
-  <div>
+  <div align="center">
     <a href="https://www.linkedin.com/in/ameralreyahi/"><img src="https://img.shields.io/badge/LINKEDIN-D4AF37?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI0Q0QUYzNyIgZD0iTTIwLjQ1IDIwLjQ1aC0zLjU2di01LjU3YzAtMS4zMy0uMDMtMy4wNC0xLjg1LTMuMDQtMS44NiAwLTIuMTQgMS40NS0yLjE0IDIuOTV2NS42Nkg5LjM1VjloMy40MXYxLjU2aC4wNWMuNDgtLjkgMS42NC0xLjg1IDMuMzctMS44NSAzLjYgMCA0LjI3IDIuMzcgNC4yNyA1LjQ2djYuMjh6TTUuMzQgNy40M2EyLjA2IDIuMDYgMCAxIDEgMC00LjEyIDIuMDYgMi4wNiAwIDAgMSAwIDQuMTJ6TTcuMTIgMjAuNDVIMy41NlY5aDMuNTZ2MTEuNDV6Ii8%2BPC9zdmc%2B&logoColor=D4AF37&labelColor=000000" alt="LinkedIn" /></a>
     <a href="mailto:amerzuher@outlook.com"><img src="https://img.shields.io/badge/EMAIL-D4AF37?style=for-the-badge&logo=gmail&logoColor=D4AF37&labelColor=000000" alt="Email" /></a>
     <a href="https://www.researchgate.net/profile/Amer-Zuher"><img src="https://img.shields.io/badge/RESEARCHGATE-D4AF37?style=for-the-badge&logo=researchgate&logoColor=D4AF37&labelColor=000000" alt="ResearchGate" /></a>
@@ -49,7 +49,9 @@
 
 <h3>Bridging Advanced Engineering &amp; Enterprise Strategy</h3>
 
-<p>True innovation lives at the intersection of deep tech and organizational strategy. As an AI Software Engineer and certified Broadcom Partner Consultant, I bridge cutting-edge technology and real-world business execution—designing, training, and deploying sophisticated AI systems while structuring the portfolio management, workflows, and governance needed to scale them. Because most tech initiatives fail in execution, not intelligence, my dual perspective ensures every model delivers measurable ROI. Whether engineering autonomous AI solutions or structuring complex enterprise portfolios, I translate technical potential into sustainable business value.</p>
+<blockquote>
+True innovation lives at the intersection of deep tech and organizational strategy. As an AI Software Engineer and certified Broadcom Partner Consultant, I bridge cutting-edge technology and real-world business execution—designing, training, and deploying sophisticated AI systems while structuring the portfolio management, workflows, and governance needed to scale them. Because most tech initiatives fail in execution, not intelligence, my dual perspective ensures every model delivers measurable ROI. Whether engineering autonomous AI solutions or structuring complex enterprise portfolios, I translate technical potential into sustainable business value.
+</blockquote>
 
 <a href="https://ameralreyahi.com"><b>Dive deeper into my full case studies, architectures, and UI designs on my Portfolio Website!</b></a>
 
@@ -63,21 +65,33 @@
 
 <blockquote>Driving enterprise transformation at the intersection of <b>Agentic AI Architecture</b>, <b>Value Stream Orchestration</b>, and <b>Project Portfolio Management (PPM)</b>.</blockquote>
 
-<kbd>&nbsp;<b>Engineering</b>&nbsp;</kbd>
+<details open>
+<summary><img src="https://img.shields.io/badge/Engineering-D4AF37?style=for-the-badge&labelColor=000000" alt="Engineering" /></summary>
 <br />
 Agentic AI frameworks and custom Model Context Protocol (MCP) servers to seamlessly extend enterprise ecosystems (Clarity PPM, Automic Automation, and ITSM).
+<br /><br />
+</details>
 
-<kbd>&nbsp;<b>Deploying</b>&nbsp;</kbd>
+<details open>
+<summary><img src="https://img.shields.io/badge/Deploying-D4AF37?style=for-the-badge&labelColor=000000" alt="Deploying" /></summary>
 <br />
 High-performing, containerized full-stack platforms—including ZerOS and Stratogen—built with TypeScript, Vite, Python, and Docker.
+<br /><br />
+</details>
 
-<kbd>&nbsp;<b>Orchestrating</b>&nbsp;</kbd>
+<details open>
+<summary><img src="https://img.shields.io/badge/Orchestrating-D4AF37?style=for-the-badge&labelColor=000000" alt="Orchestrating" /></summary>
 <br />
 Resilient, multi-system workflows and enterprise data pipelines using Temporal SDK and Broadcom ValueOps architectures.
+<br /><br />
+</details>
 
-<kbd>&nbsp;<b>Consulting on</b>&nbsp;</kbd>
+<details open>
+<summary><img src="https://img.shields.io/badge/Consulting_on-D4AF37?style=for-the-badge&labelColor=000000" alt="Consulting on" /></summary>
 <br />
 Scaling Generative AI &amp; RAG in regulated environments, AI governance, enterprise digital transformation, and aligning machine learning capabilities with business ROI.
+<br /><br />
+</details>
 
 </div>
 
@@ -129,26 +143,33 @@ Scaling Generative AI &amp; RAG in regulated environments, AI governance, enterp
 
 <h2>Academic & Professional Foundations</h2>
 
-<h4>B.Sc. in Computer Science (AI &amp; Data Science)</h4>
+<blockquote>
+<b>B.Sc. in Computer Science (AI &amp; Data Science)</b><br />
 <i>Tafila Technical University, Jordan</i> | Graduation: June 2024
+</blockquote>
 
-<br /><br />
+<h4>Specialized Certifications &amp; Technical Mastery:</h4>
 
-<b>Specialized Certifications &amp; Technical Mastery:</b>
-
-<br /><br />
-
-<kbd>&nbsp;<b>Enterprise Portfolio &amp; Automation</b>&nbsp;</kbd>
+<details open>
+<summary><img src="https://img.shields.io/badge/Enterprise_Portfolio_%26_Automation-D4AF37?style=for-the-badge&labelColor=000000" alt="Enterprise Portfolio &amp; Automation" /></summary>
 <br />
 Broadcom Certified Partner (Clarity PPM Implementation &amp; Sales), ValueOps VSM Agile Metrics &amp; Strategy, Workflow &amp; Data Orchestration (Automic Automation).
+<br /><br />
+</details>
 
-<kbd>&nbsp;<b>Generative AI &amp; Agentic Systems</b>&nbsp;</kbd>
+<details open>
+<summary><img src="https://img.shields.io/badge/Generative_AI_%26_Agentic_Systems-D4AF37?style=for-the-badge&labelColor=000000" alt="Generative AI &amp; Agentic Systems" /></summary>
 <br />
 Microsoft Intro to Generative AI &amp; Agents, Deep Learning, NLP &amp; Computer Vision (TensorFlow/PyTorch), Advanced RAG &amp; MCP Architecture.
+<br /><br />
+</details>
 
-<kbd>&nbsp;<b>DevOps, Infrastructure &amp; Security</b>&nbsp;</kbd>
+<details open>
+<summary><img src="https://img.shields.io/badge/DevOps%2C_Infrastructure_%26_Security-D4AF37?style=for-the-badge&labelColor=000000" alt="DevOps, Infrastructure &amp; Security" /></summary>
 <br />
 Docker Essentials (IBM), Microsoft Intro to DevOps, Cisco Networking Essentials, Kubernetes, Vector DB Configurations &amp; Linux System Engineering.
+<br /><br />
+</details>
 
 </div>
 
