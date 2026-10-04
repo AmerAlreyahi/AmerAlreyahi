@@ -49,11 +49,9 @@
 
 <h3>Bridging Advanced Engineering &amp; Enterprise Strategy</h3>
 
-<blockquote>
+<p>
 True innovation lives at the intersection of deep tech and organizational strategy. As an AI Software Engineer and certified Broadcom Partner Consultant, I bridge cutting-edge technology and real-world business execution—designing, training, and deploying sophisticated AI systems while structuring the portfolio management, workflows, and governance needed to scale them. Because most tech initiatives fail in execution, not intelligence, my dual perspective ensures every model delivers measurable ROI. Whether engineering autonomous AI solutions or structuring complex enterprise portfolios, I translate technical potential into sustainable business value.
-</blockquote>
-
-<a href="https://ameralreyahi.com"><b>Dive deeper into my full case studies, architectures, and UI designs on my Portfolio Website!</b></a>
+</p>
 
 </div>
 
@@ -63,31 +61,31 @@ True innovation lives at the intersection of deep tech and organizational strate
 
 <img src="assets/section-operations.svg" width="100%" alt="Current Operations" />
 
-<blockquote>Driving enterprise transformation at the intersection of <b>Agentic AI Architecture</b>, <b>Value Stream Orchestration</b>, and <b>Project Portfolio Management (PPM)</b>.</blockquote>
+<p>Driving enterprise transformation at the intersection of <b>Agentic AI Architecture</b>, <b>Value Stream Orchestration</b>, and <b>Project Portfolio Management (PPM)</b>.</p>
 
-<blockquote>
+<p>
 <img src="assets/label-engineering.svg" width="210" alt="Engineering" />
 <br /><br />
 Agentic AI frameworks and custom Model Context Protocol (MCP) servers to seamlessly extend enterprise ecosystems (Clarity PPM, Automic Automation, and ITSM).
-</blockquote>
+</p>
 
-<blockquote>
+<p>
 <img src="assets/label-deploying.svg" width="184" alt="Deploying" />
 <br /><br />
 High-performing, containerized full-stack platforms—including ZerOS and Stratogen—built with TypeScript, Vite, Python, and Docker.
-</blockquote>
+</p>
 
-<blockquote>
+<p>
 <img src="assets/label-orchestrating.svg" width="236" alt="Orchestrating" />
 <br /><br />
 Resilient, multi-system workflows and enterprise data pipelines using Temporal SDK and Broadcom ValueOps architectures.
-</blockquote>
+</p>
 
-<blockquote>
+<p>
 <img src="assets/label-consulting-on.svg" width="236" alt="Consulting on" />
 <br /><br />
 Scaling Generative AI &amp; RAG in regulated environments, AI governance, enterprise digital transformation, and aligning machine learning capabilities with business ROI.
-</blockquote>
+</p>
 
 </div>
 
@@ -139,30 +137,30 @@ Scaling Generative AI &amp; RAG in regulated environments, AI governance, enterp
 
 <img src="assets/section-education.svg" width="100%" alt="Academic &amp; Professional Foundations" />
 
-<blockquote>
+<p>
 <b>B.Sc. in Computer Science (AI &amp; Data Science)</b><br />
 <i>Tafila Technical University, Jordan</i> | Graduation: June 2024
-</blockquote>
+</p>
 
 <h4>Specialized Certifications &amp; Technical Mastery:</h4>
 
-<blockquote>
+<p>
 <img src="assets/label-enterprise-portfolio-automation.svg" width="494" alt="Enterprise Portfolio &amp; Automation" />
 <br /><br />
 Broadcom Certified Partner (Clarity PPM Implementation &amp; Sales), ValueOps VSM Agile Metrics &amp; Strategy, Workflow &amp; Data Orchestration (Automic Automation).
-</blockquote>
+</p>
 
-<blockquote>
+<p>
 <img src="assets/label-generative-ai-agentic-systems.svg" width="469" alt="Generative AI &amp; Agentic Systems" />
 <br /><br />
 Microsoft Intro to Generative AI &amp; Agents, Deep Learning, NLP &amp; Computer Vision (TensorFlow/PyTorch), Advanced RAG &amp; MCP Architecture.
-</blockquote>
+</p>
 
-<blockquote>
+<p>
 <img src="assets/label-devops-infrastructure-security.svg" width="494" alt="DevOps, Infrastructure &amp; Security" />
 <br /><br />
 Docker Essentials (IBM), Microsoft Intro to DevOps, Cisco Networking Essentials, Kubernetes, Vector DB Configurations &amp; Linux System Engineering.
-</blockquote>
+</p>
 
 </div>
 
