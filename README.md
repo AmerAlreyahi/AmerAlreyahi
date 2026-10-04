@@ -37,6 +37,7 @@
 <br clear="both" />
 <br />
 
+
 ---
 
 ### Professional Summary
@@ -47,6 +48,7 @@ True innovation lives at the intersection of deep tech and organizational strate
 
 
 **[Dive deeper into my full case studies, architectures, and UI designs on my Portfolio Website!](https://ameralreyahi.com)**
+
 
 ---
 
@@ -114,10 +116,11 @@ True innovation lives at the intersection of deep tech and organizational strate
 **B.Sc. in Computer Science (AI & Data Science)**  
 *Tafila Technical University, Jordan* | Graduation: June 2024
 
-** Specialized Certifications & Technical Mastery:**
+**Specialized Certifications & Technical Mastery:**
 *   **Enterprise Portfolio & Automation:** Broadcom Certified Partner (Clarity PPM Implementation & Sales), ValueOps VSM Agile Metrics & Strategy, Workflow & Data Orchestration (Automic Automation).
 *   **Generative AI & Agentic Systems:** Microsoft Intro to Generative AI & Agents, Deep Learning, NLP & Computer Vision (TensorFlow/PyTorch), Advanced RAG & MCP Architecture.
 *   **DevOps, Infrastructure & Security:** Docker Essentials (IBM), Microsoft Intro to DevOps, Cisco Networking Essentials, Kubernetes, Vector DB Configurations & Linux System Engineering.
+
 ---
 <div align="center">
   <i>"Building the future of automation, one intelligent system at a time."</i><br><br>
