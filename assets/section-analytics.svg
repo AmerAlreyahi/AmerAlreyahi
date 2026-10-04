@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="56" viewBox="0 0 1200 56" role="img" aria-label="GitHub Analytics">
+  <defs>
+    <linearGradient id="l" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#d4af37" stop-opacity="0"/><stop offset="1" stop-color="#d4af37"/></linearGradient>
+    <linearGradient id="r" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#d4af37"/><stop offset="1" stop-color="#d4af37" stop-opacity="0"/></linearGradient>
+    <linearGradient id="t" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#d4af37"/><stop offset="0.5" stop-color="#f6e3a1"/><stop offset="1" stop-color="#d4af37"/></linearGradient>
+  </defs>
+  <rect x="40" y="27" width="357" height="2" fill="url(#l)"/>
+  <rect x="803" y="27" width="357" height="2" fill="url(#r)"/>
+  <rect x="413" y="23" width="10" height="10" transform="rotate(45 418 28)" fill="#d4af37"/>
+  <rect x="777" y="23" width="10" height="10" transform="rotate(45 782 28)" fill="#d4af37"/>
+  <text x="600" y="36" text-anchor="middle" textLength="314" lengthAdjust="spacing" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="22" font-weight="700" fill="url(#t)">GITHUB ANALYTICS</text>
+</svg>
