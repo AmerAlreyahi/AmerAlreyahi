@@ -29,11 +29,6 @@
       <stop offset="0.5" stop-color="#d4af37" stop-opacity="0.34"/>
       <stop offset="1" stop-color="#d4af37" stop-opacity="0.08"/>
     </linearGradient>
-    <linearGradient id="sweep" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#f6e3a1" stop-opacity="0"/>
-      <stop offset="0.5" stop-color="#f6e3a1" stop-opacity="0.16"/>
-      <stop offset="1" stop-color="#f6e3a1" stop-opacity="0"/>
-    </linearGradient>
   </defs>
   <rect width="1200" height="300" fill="url(#bg)"/>
   <rect width="1200" height="300" fill="url(#glow)"/>
@@ -60,9 +55,7 @@
     <circle cx="240" cy="280" r="1.2"><animate attributeName="cy" values="285;40" dur="10s" begin="6s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0.7;0" dur="10s" begin="6s" repeatCount="indefinite"/></circle>
     <circle cx="980" cy="280" r="1.5"><animate attributeName="cy" values="285;40" dur="9s" begin="7s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0.7;0" dur="9s" begin="7s" repeatCount="indefinite"/></circle>
   </g>
-  <rect x="-400" y="0" width="260" height="300" fill="url(#sweep)" transform="skewX(-20)">
-    <animateTransform attributeName="transform" type="translate" additive="sum" values="0 0;1900 0;1900 0" keyTimes="0;0.45;1" dur="9s" repeatCount="indefinite"/>
-  </rect>
+
   <rect x="0" y="0" width="1200" height="3" fill="url(#gold)"/>
   <rect x="0" y="297" width="1200" height="3" fill="url(#gold)"/>
   <text x="600" y="150" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="62" font-weight="800" letter-spacing="7" fill="url(#goldText)">AMER ZUHER ALREYAHI<animate attributeName="opacity" values="0;1" dur="1.6s" fill="freeze"/></text>

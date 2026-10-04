@@ -4,12 +4,6 @@
 
 <br>
 
-<a href="https://ameralreyahi.com" target="_blank">
-  <img src="assets/website-card.svg" width="620" alt="Portfolio Website - ameralreyahi.com" />
-</a>
-
-<br><br>
-
 <div align="left">
   
   <!-- Image floated to the left -->
@@ -32,8 +26,11 @@
     <a href="https://www.researchgate.net/profile/Amer-Zuher"><img src="https://img.shields.io/badge/RESEARCHGATE-D4AF37?style=for-the-badge&logo=researchgate&logoColor=D4AF37&labelColor=000000" alt="ResearchGate" /></a>
     <img src="https://hits.sh/github.com/AmerAlreyahi/AmerAlreyahi.svg?style=for-the-badge&label=PROFILE%20VIEWS&color=D4AF37&labelColor=000000&extraCount=1000" alt="Profile Views" />
   </div>
-  
   <br>
+
+  <a href="https://ameralreyahi.com" target="_blank">
+    <img src="assets/website-card.svg" width="540" alt="Portfolio Website - ameralreyahi.com" />
+  </a>
 
 </div>
 
