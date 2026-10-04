@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Amer Zuher Alriyahi">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#050505"/>
+      <stop offset="0.55" stop-color="#14100a"/>
+      <stop offset="1" stop-color="#0a0a0a"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#8a6a1c"/>
+      <stop offset="0.25" stop-color="#f6e3a1"/>
+      <stop offset="0.5" stop-color="#d4af37"/>
+      <stop offset="0.75" stop-color="#f6e3a1"/>
+      <stop offset="1" stop-color="#8a6a1c"/>
+    </linearGradient>
+    <linearGradient id="goldText" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="1200" y2="0">
+      <stop offset="0" stop-color="#b08d2a"/>
+      <stop offset="0.35" stop-color="#f6e3a1"/>
+      <stop offset="0.5" stop-color="#d4af37"/>
+      <stop offset="0.65" stop-color="#f6e3a1"/>
+      <stop offset="1" stop-color="#b08d2a"/>
+      <animateTransform attributeName="gradientTransform" type="translate" values="-300 0;300 0;-300 0" dur="8s" repeatCount="indefinite"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.45" r="0.55">
+      <stop offset="0" stop-color="#d4af37" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#d4af37" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="wave" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#d4af37" stop-opacity="0.05"/>
+      <stop offset="0.5" stop-color="#d4af37" stop-opacity="0.28"/>
+      <stop offset="1" stop-color="#d4af37" stop-opacity="0.05"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="300" fill="url(#bg)"/>
+  <rect width="1200" height="300" fill="url(#glow)"/>
+  <g stroke="#d4af37" stroke-opacity="0.06" stroke-width="1">
+    <path d="M0 60H1200M0 120H1200M0 180H1200M0 240H1200"/>
+    <path d="M150 0V300M300 0V300M450 0V300M600 0V300M750 0V300M900 0V300M1050 0V300"/>
+  </g>
+  <path d="M0 232 C200 190 380 270 600 232 S1000 190 1200 236 V300 H0Z" fill="url(#wave)"/>
+  <path d="M0 256 C240 220 420 288 640 252 S1020 226 1200 258 V300 H0Z" fill="#d4af37" fill-opacity="0.10"/>
+  <path d="M0 232 C200 190 380 270 600 232 S1000 190 1200 236" fill="none" stroke="url(#gold)" stroke-width="1.5" stroke-opacity="0.8"/>
+  <rect x="0" y="0" width="1200" height="3" fill="url(#gold)"/>
+  <rect x="0" y="297" width="1200" height="3" fill="url(#gold)"/>
+  <text x="600" y="150" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="62" font-weight="800" letter-spacing="7" fill="url(#goldText)">AMER ZUHER ALRIYAHI</text>
+  <g transform="translate(600 188)">
+    <rect x="-170" y="-0.75" width="156" height="1.5" fill="url(#gold)"/><rect x="14" y="-0.75" width="156" height="1.5" fill="url(#gold)"/>
+    <rect x="-5" y="-5" width="10" height="10" transform="rotate(45)" fill="#d4af37"/>
+  </g>
+</svg>
