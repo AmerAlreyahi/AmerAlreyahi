@@ -41,8 +41,6 @@
 
 </div>
 
----
-
 <div align="center">
 
 <img src="assets/section-summary.svg" width="100%" alt="Professional Summary" />
@@ -57,8 +55,6 @@ True innovation lives at the intersection of deep tech and organizational strate
 
 </div>
 
----
-
 <div align="center">
 
 <img src="assets/section-operations.svg" width="100%" alt="Current Operations" />
@@ -66,32 +62,30 @@ True innovation lives at the intersection of deep tech and organizational strate
 <blockquote>Driving enterprise transformation at the intersection of <b>Agentic AI Architecture</b>, <b>Value Stream Orchestration</b>, and <b>Project Portfolio Management (PPM)</b>.</blockquote>
 
 <blockquote>
-<img src="https://img.shields.io/badge/Engineering-D4AF37?style=for-the-badge&labelColor=000000" alt="Engineering" />
+<img src="assets/label-engineering.svg" width="210" alt="Engineering" />
 <br /><br />
 Agentic AI frameworks and custom Model Context Protocol (MCP) servers to seamlessly extend enterprise ecosystems (Clarity PPM, Automic Automation, and ITSM).
 </blockquote>
 
 <blockquote>
-<img src="https://img.shields.io/badge/Deploying-D4AF37?style=for-the-badge&labelColor=000000" alt="Deploying" />
+<img src="assets/label-deploying.svg" width="184" alt="Deploying" />
 <br /><br />
 High-performing, containerized full-stack platforms—including ZerOS and Stratogen—built with TypeScript, Vite, Python, and Docker.
 </blockquote>
 
 <blockquote>
-<img src="https://img.shields.io/badge/Orchestrating-D4AF37?style=for-the-badge&labelColor=000000" alt="Orchestrating" />
+<img src="assets/label-orchestrating.svg" width="236" alt="Orchestrating" />
 <br /><br />
 Resilient, multi-system workflows and enterprise data pipelines using Temporal SDK and Broadcom ValueOps architectures.
 </blockquote>
 
 <blockquote>
-<img src="https://img.shields.io/badge/Consulting_on-D4AF37?style=for-the-badge&labelColor=000000" alt="Consulting on" />
+<img src="assets/label-consulting-on.svg" width="236" alt="Consulting on" />
 <br /><br />
 Scaling Generative AI &amp; RAG in regulated environments, AI governance, enterprise digital transformation, and aligning machine learning capabilities with business ROI.
 </blockquote>
 
 </div>
-
----
 
 <div align="center">
 
@@ -123,8 +117,6 @@ Scaling Generative AI &amp; RAG in regulated environments, AI governance, enterp
 
 </div>
 
----
-
 <div align="center">
 
 <img src="assets/section-analytics.svg" width="100%" alt="GitHub Analytics" />
@@ -132,8 +124,6 @@ Scaling Generative AI &amp; RAG in regulated environments, AI governance, enterp
 <img src="https://streak-stats.demolab.com?user=AmerAlreyahi&hide_border=true&background=0D0D0D&ring=D4AF37&fire=D4AF37&currStreakNum=FFFFFF&currStreakLabel=D4AF37&sideNums=FFFFFF&sideLabels=D4AF37&dates=9E9E9E" alt="GitHub Streak" />
 
 </div>
-
----
 
 <div align="center">
 
@@ -147,26 +137,24 @@ Scaling Generative AI &amp; RAG in regulated environments, AI governance, enterp
 <h4>Specialized Certifications &amp; Technical Mastery:</h4>
 
 <blockquote>
-<img src="https://img.shields.io/badge/Enterprise_Portfolio_%26_Automation-D4AF37?style=for-the-badge&labelColor=000000" alt="Enterprise Portfolio &amp; Automation" />
+<img src="assets/label-enterprise-portfolio-automation.svg" width="494" alt="Enterprise Portfolio &amp; Automation" />
 <br /><br />
 Broadcom Certified Partner (Clarity PPM Implementation &amp; Sales), ValueOps VSM Agile Metrics &amp; Strategy, Workflow &amp; Data Orchestration (Automic Automation).
 </blockquote>
 
 <blockquote>
-<img src="https://img.shields.io/badge/Generative_AI_%26_Agentic_Systems-D4AF37?style=for-the-badge&labelColor=000000" alt="Generative AI &amp; Agentic Systems" />
+<img src="assets/label-generative-ai-agentic-systems.svg" width="469" alt="Generative AI &amp; Agentic Systems" />
 <br /><br />
 Microsoft Intro to Generative AI &amp; Agents, Deep Learning, NLP &amp; Computer Vision (TensorFlow/PyTorch), Advanced RAG &amp; MCP Architecture.
 </blockquote>
 
 <blockquote>
-<img src="https://img.shields.io/badge/DevOps%2C_Infrastructure_%26_Security-D4AF37?style=for-the-badge&labelColor=000000" alt="DevOps, Infrastructure &amp; Security" />
+<img src="assets/label-devops-infrastructure-security.svg" width="494" alt="DevOps, Infrastructure &amp; Security" />
 <br /><br />
 Docker Essentials (IBM), Microsoft Intro to DevOps, Cisco Networking Essentials, Kubernetes, Vector DB Configurations &amp; Linux System Engineering.
 </blockquote>
 
 </div>
-
----
 
 <div align="center">
   <i>"Building the future of automation, one intelligent system at a time."</i><br><br>

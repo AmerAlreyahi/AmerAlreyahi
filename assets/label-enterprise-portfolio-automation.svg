@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="494" height="30" viewBox="0 0 494 30" role="img" aria-label="Enterprise Portfolio &amp; Automation">
+  <defs><linearGradient id="t" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#d4af37"/><stop offset="0.5" stop-color="#f6e3a1"/><stop offset="1" stop-color="#d4af37"/></linearGradient></defs>
+  <rect x="6" y="10" width="8" height="8" transform="rotate(45 10 14)" fill="#d4af37"/>
+  <rect x="480" y="10" width="8" height="8" transform="rotate(45 484 14)" fill="#d4af37"/>
+  <text x="247" y="20" text-anchor="middle" textLength="426" lengthAdjust="spacing" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="16" font-weight="700" fill="url(#t)">ENTERPRISE PORTFOLIO &amp; AUTOMATION</text>
+</svg>
