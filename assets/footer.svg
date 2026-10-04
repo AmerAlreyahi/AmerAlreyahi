@@ -29,11 +29,6 @@
       <stop offset="0.5" stop-color="#d4af37" stop-opacity="0.34"/>
       <stop offset="1" stop-color="#d4af37" stop-opacity="0.08"/>
     </linearGradient>
-    <linearGradient id="sweep" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#f6e3a1" stop-opacity="0"/>
-      <stop offset="0.5" stop-color="#f6e3a1" stop-opacity="0.16"/>
-      <stop offset="1" stop-color="#f6e3a1" stop-opacity="0"/>
-    </linearGradient>
   </defs>
   <rect width="1200" height="120" fill="url(#bg)"/>
   <path d="M-24,96.9 L0,100.0 L24,103.1 L48,105.0 L72,105.4 L96,104.6 L120,103.4 L144,102.5 L168,102.2 L192,102.0 L216,101.2 L240,99.4 L264,96.8 L288,94.4 L312,93.3 L336,93.9 L360,96.0 L384,98.7 L408,100.9 L432,102.0 L456,102.3 L480,102.4 L504,103.1 L528,104.2 L552,105.2 L576,105.2 L600,103.7 L624,100.9 L648,97.8 L672,95.3 L696,94.4 L720,95.0 L744,96.2 L768,97.3 L792,97.9 L816,98.0 L840,98.6 L864,100.0 L888,102.4 L912,104.9 L936,106.6 L960,106.5 L984,104.7 L1008,102.1 L1032,99.6 L1056,98.1 L1080,97.6 L1104,97.5 L1128,97.2 L1152,96.2 L1176,95.1 L1200,94.7 L1224,95.7 L1248,98.2 L1248,130 L-24,130Z" fill="#d4af37" fill-opacity="0.08">
