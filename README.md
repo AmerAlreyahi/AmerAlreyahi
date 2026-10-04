@@ -7,11 +7,11 @@
 <div align="left">
   
   <!-- Image floated to the left -->
-  <img align="left" src="https://github.com/AmerAlreyahi.png" width="220" style="border-radius: 50%; border: 5px solid #D4AF37; margin-right: 30px; margin-bottom: 20px;" alt="Amer Zuher Alreyahi" />
+  <img align="left" src="https://github.com/AmerAlreyahi.png" width="200" style="border-radius: 50%; border: 5px solid #D4AF37; margin-right: 30px; margin-bottom: 20px;" alt="Amer Zuher Alreyahi" />
   
   <!-- Content wrapping on the right -->
   <a href="https://ameralreyahi.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=D4AF37&vCenter=true&width=620&lines=AI+Solutions+Architect;Project+Portfolio+Management+Specialist" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=1000&color=D4AF37&vCenter=true&width=480&lines=AI+Solutions+Architect;Project+Portfolio+Management+Specialist" alt="Typing SVG" />
   </a>
   <br>
 
