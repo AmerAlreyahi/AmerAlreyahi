@@ -37,8 +37,6 @@
 
 <div align="center">
 
-<br /><br />
-
 <img src="assets/section-summary.svg" width="100%" alt="Professional Summary" />
 
 <h3>Bridging Advanced Engineering &amp; Enterprise Strategy</h3>
